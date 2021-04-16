@@ -1,7 +1,7 @@
 {
-    "full_name": "Amir Ajorloo",
-    "position": "Software Engineer",
-    "url": "https://ajorloo.com",
+    "full_name": "Fariba Boustanifar",
+    "position": "Backend Developer",
+    "url": "https://boustanifar.com",
     "menu_items": [
         {
             "title": "About",
@@ -16,17 +16,16 @@
             "link": "#skills"
         },
         {
-            "title": "Contact",
-            "link": "#contact"
+            "title": "Portfolio",
+            "link": "#portfolio"
         },
         {
-            "title": "Blog",
-            "link": "https://ajorloo.medium.com/",
-            "new_tab": true
+            "title": "Contact",
+            "link": "#contact"
         }
     ],
     "about": {
-        "description": "I have 9 years of hands-on experience in building web, mobile applications, backend, and love to automate everything from development to deployment. Building state-of-the-art and user-friendly websites and applications that help other people is truly a passion of mine and I enjoy every minute I spend on developing, whether I’m developing in a team or independently.\n\nIn addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. This has allowed me to stay ahead of the curve and deliver exceptional work.\n\nBesides developing, I’m passionate about cars, music, and exploring nature. I also like to do puzzles, watch movies, and cook in my free time.",
+        "description": "My name is Fariba Boustanifar and I’m a software and backend developer, currently living in Tehran,Iran. I’m Python backend developer at System Negar Saina.\nI have a B.S. and an M.S. in Software Engineering from Iran University of Science and Technology. Although my primary focus is software and backend development, but I’m also highly interested in IoT and trust management of smart infrastructures. You can read my article about Trust Management in IoT here.\nI am constantly experimenting with new technologies and techniques. I love my job and everything that comes with it. If you have any question, I’d be more than happy to help you!",
         "favorites": [
             {
                 "name": "family",
@@ -37,19 +36,11 @@
                 "class": ""
             },
             {
-                "name": "car",
-                "class": "big"
-            },
-            {
                 "name": "music",
                 "class": ""
             },
             {
                 "name": "coffee",
-                "class": ""
-            },
-            {
-                "name": "customize",
                 "class": ""
             },
             {
@@ -87,44 +78,20 @@
         "items": [
             {
                 "company": "Systemnegar Saina",
-                "position": "CTO",
-                "date_start": "April 2015",
-                "description": "Something"
+                "position": "Backend Developer",
+                "date_start": "April 2017"
+            },
+            {
+                "company": "Lab",
+                "position": "C# Developer",
+                "date_start": "February 2017",
+                "date_end": "April 2016"
             },
             {
                 "company": "Rubytek AB",
-                "position": "Full Stack Developer",
+                "position": "Backend Developer",
                 "date_start": "February 2015",
                 "date_end": "June 2020"
-            },
-            {
-                "company": "Bahamta",
-                "position": "Web Developer",
-                "date_start": "November 2015",
-                "date_end": "December 2019"
-            },
-            {
-                "company": "Snapp",
-                "position": "Web Developer - Freelance",
-                "date_start": "May 2015",
-                "date_end": "June 2015"
-            },
-            {
-                "company": "Soren Group",
-                "position": "Web Developer",
-                "date_start": "March 2014",
-                "date_end": "April 2017"
-            },
-            {
-                "custom_title": "Freelancer",
-                "date_start": "February 2013",
-                "date_end": "March 2015"
-            },
-            {
-                "company": "Saye Gostar Aria Zamin",
-                "position": "Web Developer",
-                "date_start": "January 2012",
-                "date_end": "February 2013"
             }
         ]
     },
@@ -132,92 +99,18 @@
         "description": "I love to stay up-to-date and discover new stuff in my life. These are development technologies and tools which I needed or liked them and began to learn to make my work better:",
         "items": [
             {
-                "title": "Languages",
+                "title": "",
                 "items": [
                     "Python",
-                    "Javascript",
-                    "Typescript",
-                    "Dart",
-                    "Swift",
+                    "C#",
                     "Java",
-                    "Kotlin",
-                    "C++"
-                ]
-            },
-            {
-                "title": "Mobile Application",
-                "items": [
-                    "Flutter",
-                    "React Native",
-                    "Native Script",
-                    "Ionic Framework",
-                    "Swift",
-                    "Java",
-                    "Kotlin"
-                ]
-            },
-            {
-                "title": "Backend",
-                "items": [
                     "Django",
                     "Flask",
-                    "ExpressJS"
-                ]
-            },
-            {
-                "title": "Frontend",
-                "items": [
-                    "Angular",
-                    "AngularJS",
-                    "ReactJS",
-                    "VanillaJS",
-                    "HTML5",
-                    "CSS3",
-                    "SCSS",
-                    "LESS"
-                ]
-            },
-            {
-                "title": "Database",
-                "items": [
                     "MongoDB",
                     "PostgreSQL",
                     "MySQL",
                     "Redis",
-                    "Neo4j",
-                    "Couchbase"
-                ]
-            },
-            {
-                "title": "CI-CD",
-                "items": [
-                    "Docker",
-                    "Gitlab-CI",
-                    "Ansible",
-                    "Travis-CI",
-                    "Jenkins",
-                    "Kubernetes"
-                ]
-            },
-            {
-                "title": "Development Tools",
-                "items": [
-                    "Yarn",
-                    "NPM",
-                    "Git",
-                    "Gradle",
-                    "Maven",
-                    "pip",
-                    "Grunt",
-                    "Webpack",
-                    "Gulp"
-                ]
-            },
-            {
-                "title": "Other",
-                "items": [
                     "Nginx",
-                    "Apache Tomcat",
                     "Elastic Search",
                     "RabbitMQ"
                 ]
@@ -225,32 +118,15 @@
         ]
     },
     "contact": {
-        "email": "amirajorloo@gmail.com",
-        "telephone": "989124145911",
+        "email": "fariba.boustani@gmail.com",
         "social": [
             {
                 "icon": "github",
-                "link": "https://github.com/theSinner"
+                "link": "https://github.com/f-boustani"
             },
             {
                 "icon": "twitter",
-                "link": "https://twitter.com/amirajorloo"
-            },
-            {
-                "icon": "instagram",
-                "link": "https://instagram.com/am1r.ajorloo"
-            },
-            {
-                "icon": "spotify",
-                "link": "https://open.spotify.com/user/thesinner13"
-            },
-            {
-                "icon": "facebook",
-                "link": "https://www.facebook.com/amir.ajorloo/"
-            },
-            {
-                "icon": "pinterest",
-                "link": "https://www.pinterest.com/Thes1nn3r/"
+                "link": "https://twitter.com/faribaboustani"
             }
         ]
     }

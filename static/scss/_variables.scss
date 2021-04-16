@@ -1,10 +1,19 @@
 // GENERAL
 $primaryTextColor : #677682;
+$primaryTextDarkColor: #37474F;
+$primaryTextDarkerColor: #263238;
+$primaryTextLiteColor: #707070;
+$primaryColor: #06526b;
 $accentColor: #f2c000;
+$alternativeColor: #77C725;
+$alternativeDarkColor: #4a8f05;
+$topBackgroundColor: $primaryColor;
+$primaryBackgroundColor: #FFFFFF;
+$secondaryBackgroundColor: #F1F1F1;
 // MENU
 $menuTextColor: #FFFFFF;
-$menuBackgroundColor: #263238;
-$menuBackgroundShadowColor: #323f46;
+$menuBackgroundColor: #083b4c;
+$menuBackgroundShadowColor: #072f3c;
 
 // SIDE MENU
 $sideMenuItemTextColor: $primaryTextColor;
@@ -13,47 +22,47 @@ $sideMenuBackgroundColor: #ededed;
 $sideMenuButtonBackgroundColor: #263238;
 
 // Top Part
-$topBackgroundColor: #263238;
+$topBackgroundColor: $topBackgroundColor;
 $topBackgroundLiteColor: $accentColor;
 $topTitleTextColor: #FFFFFF;
 $topSubtTitleTextColor: #FFFFFF;
 
 // About
-$aboutBackgroundColor: #37474F;
-$aboutTextColor: #FFFFFF;
+$aboutBackgroundColor: $primaryBackgroundColor;
+$aboutTextColor: $primaryTextColor;
 
 // Experience
-$experienceBackgroundColor: #263238;
-$experienceBoxlineColor: $accentColor;
-$experienceTextColor: #FFFFFF;
-$experienceBoxTitleColor: #FFFFFF;
-$experienceBoxDateColor: #CDCDCD;
-$experienceBoxDescriptionColor: #FFFFFF;
-$experienceBoxTechTextColor: #A0A0A0;
-$experienceBoxTechBorderColor: #CDCDCD;
-$experienceBoxBorderBottomColor: #919191;
+$experienceBackgroundColor: $secondaryBackgroundColor;
+$experienceBoxlineColor: $alternativeColor;
+$experienceTextColor: $primaryTextColor;
+$experienceBoxTitleColor: $primaryTextDarkColor;
+$experienceBoxDateColor: $primaryTextLiteColor;
+$experienceBoxDescriptionColor: $primaryTextColor;
+$experienceBoxTechTextColor: $primaryTextColor;
+$experienceBoxTechBorderColor: $primaryTextLiteColor;
+$experienceBoxBorderBottomColor: #101010;
 
 
 // Skills
-$skillsBackgroundColor: #37474F;
-$skillsTextColor: #FFFFFF;
-$skillBoxTitleColor: #FFFFFF;
-$skillBoxTechTextColor: #F0F0F0;
-$skillBoxTechBorderColor: #F0F0F0;
-$skillBoxBorderColor: $accentColor;
+$skillsBackgroundColor: $primaryBackgroundColor;
+$skillsTextColor: $primaryTextColor;
+$skillBoxTitleColor: $primaryTextColor;
+$skillBoxTechTextColor: $primaryTextColor;
+$skillBoxTechBorderColor: $primaryTextColor;
+$skillBoxBorderColor: $alternativeColor;
 
 // Portfolio
-$portfolioBackgroundColor: #263238;
-$portfolioTextColor: #FFFFFF;
+$portfolioBackgroundColor: $secondaryBackgroundColor;
+$portfolioTextColor: $primaryTextColor;
 $portfolioSectionTitleColor: $accentColor;
-$portfolioBoxBackgroundColor: #182227;
-$portfolioBoxTitleColor: #FFFFFF;
-$portfolioBoxDateColor: #CDCDCD;
-$portfolioBoxLinkColor: #FFFFFF;
-$portfolioBoxLinkHoverColor: $accentColor;
-$portfolioBoxDescriptionColor: #F1F1F1;
-$portfolioBoxTechTextColor: #A0A0A0;
-$portfolioBoxTechBorderColor: #CDCDCD;
+$portfolioBoxBackgroundColor: $primaryBackgroundColor;
+$portfolioBoxTitleColor: $primaryTextDarkColor;
+$portfolioBoxDateColor: $primaryTextLiteColor;
+$portfolioBoxLinkColor: $alternativeColor;
+$portfolioBoxLinkHoverColor: $alternativeDarkColor;
+$portfolioBoxDescriptionColor: $primaryTextColor;
+$portfolioBoxTechTextColor: $primaryTextColor;
+$portfolioBoxTechBorderColor: $primaryTextLiteColor;
 
 
 // Contact me
